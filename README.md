@@ -59,12 +59,12 @@ git clone https://github.com/saeenikam19/Performance_Analysis_Summary.git
 
 Install required library
 
-pip install fpdf
+	pip install fpdf
 
 
-Run the program
+	Run the program
 
-python student_report.py
+	python student_report.py
 
 ## 📑 Output
 
