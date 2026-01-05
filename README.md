@@ -40,17 +40,21 @@ project-folder/
 
 The CSV file should look like this:
 
-Name,Marks
-Alice,85
-Bob,72
-Charlie,90
-David,65
+	Name,Marks
+	Alice,85
+	Bob,72
+	Charlie,90
+	David,65
+	Saee,90
+	Siddhi,89
+	Arshti,76
+	Shreya,90
 
 ## ⚙️ Installation & Setup
 
 Clone the repository
 
-git clone https://github.com/your-username/student-performance-report.git
+git clone https://github.com/saeenikam19/Performance_Analysis_Summary.git
 
 
 Install required library
@@ -93,7 +97,3 @@ Internship tasks
 Mini projects for resumes
 
 Academic performance reports
-
-👩‍💻 Author
-
-Saee Santosh Nikam
