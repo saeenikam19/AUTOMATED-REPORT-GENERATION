@@ -1,1 +1,99 @@
-# Performance_Analysis_Summary
+## 📊 Student Performance Report Generator (Python)
+
+This project reads student data from a CSV file, analyzes their performance, and generates a professional PDF report using Python.
+
+## 🚀 Features
+
+Reads student names and marks from a CSV file
+
+Calculates:
+
+			Total number of students
+			
+			Average marks
+				
+			Highest marks
+			
+			Lowest marks
+
+Generates a well-formatted PDF report
+
+Simple, beginner-friendly Python code
+
+## 🛠️ Technologies Used
+
+Python
+
+CSV module (built-in)
+
+FPDF library (for PDF generation)
+
+📂 Project Structure
+project-folder/
+│
+├── data.csv
+├── student_report.py
+├── student_report.pdf
+└── README.md
+
+## 📄 CSV File Format (data.csv)
+
+The CSV file should look like this:
+
+Name,Marks
+Alice,85
+Bob,72
+Charlie,90
+David,65
+
+## ⚙️ Installation & Setup
+
+Clone the repository
+
+git clone https://github.com/your-username/student-performance-report.git
+
+
+Install required library
+
+pip install fpdf
+
+
+Run the program
+
+python student_report.py
+
+## 📑 Output
+
+A PDF file named student_report.pdf will be generated
+
+The PDF includes:
+
+Student marks table
+
+Performance analysis summary
+
+## 🧠 Learning Outcomes
+
+File handling using CSV
+
+Data analysis using Python
+
+PDF generation using FPDF
+
+Writing clean and modular code
+
+## 📌 Use Case
+
+This project is useful for:
+
+Students learning Python basics
+
+Internship tasks
+
+Mini projects for resumes
+
+Academic performance reports
+
+👩‍💻 Author
+
+Saee Santosh Nikam
