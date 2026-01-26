@@ -21,13 +21,13 @@ Reads student names and marks from a CSV file
 
 Calculates:
 	
-				Total number of students
+	Total number of students
 				
-				Average marks
+	Average marks
 					
-				Highest marks
+	Highest marks
 				
-				Lowest marks
+	Lowest marks
 
 Generates a well-formatted PDF report
 
