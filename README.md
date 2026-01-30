@@ -11,7 +11,7 @@ Internship Period: 07 January 2026 - 18 February 2026
 
 Intern ID: CTIS1452
 
-## 📊 Student Performance Report Generator (Python)
+## 📊 Student Performance Report Generator (Python)   
 
 This project reads student data from a CSV file, analyzes their performance, and generates a professional PDF report using Python.
 
